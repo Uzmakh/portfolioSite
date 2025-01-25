@@ -1,3 +1,6 @@
+<div align="center><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RtM3Z0YnZmMnh0OGNpcW11OGg1anAwOWQ5c3FyeWF5YTkzY2w3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"></div>
+
+
 <h1 align="center">Hi 👋, I'm Uzma Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
